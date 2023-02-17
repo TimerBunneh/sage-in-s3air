@@ -1,4 +1,4 @@
-These mods WORK  with Sage:
+These mods WORK with Sage:
 
 > Eggette and its prerequisite, Blue Glasses Eggman (https://gamebanana.com/mods/408066 & https://gamebanana.com/mods/54283)
 > Achievements Plus (required for Sage Achievements mod anyway) (https://github.com/fadeinside/s3air-achievements-plus)
