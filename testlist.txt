@@ -1,0 +1,37 @@
+These mods WORK  with Sage:
+
+> Eggette and its prerequisite, Blue Glasses Eggman (https://gamebanana.com/mods/408066 & https://gamebanana.com/mods/54283)
+> Achievements Plus (required for Sage Achievements mod anyway) (https://github.com/fadeinside/s3air-achievements-plus)
+> Sonic 3 AIR with Extra Mushrooms (and its additional Achievements Plus HUD) (https://github.com/TheMushrunt/Sonic-3-AIR-with-Extra-Mushrooms)
+> Ultra Super/Hyper Forms* (https://gamebanana.com/mods/416797)
+> Vinny's Super Speenout: Deluxe! (https://gamebanana.com/mods/412857)
+> Tails in Doomsday Zone (https://gamebanana.com/mods/54175)
+> Extra Slot Mighty, Rouge, Fang, Ray**, and 3D2D Shadow
+> 1103 Sound Driver Death (https://gamebanana.com/mods/54432)
+> 3D2D Glitches (https://gamebanana.com/mods/54266)
+> Sage's Hunt (https://gamebanana.com/mods/412835)
+
+These mods DO NOT work with Sage:
+
+> Tails Snowboards (would require custom sprites for a mod I did not make) (https://gamebanana.com/mods/54182)
+> likely any other skins based off Tails' slot, be it due to sprites or music
+
+These mods MIGHT work with Sage but were unable to be tested for various reasons:
+
+> Extra Slot Espio (would not appear on select screen, even after fixing up the uploader's mistakes) (https://gamebanana.com/mods/405872)
+
+*Only the no team variant was successfully tested. The team variant requires custom palettes, which gave me an error.
+**Major thanks to iCloudius for the Ray fix, now no ES characters should get Sage's music!
+
+As stated above, any other character skins/mods for Tails should not work properly (though I'm not sure why you would use them and Sage at the same time). The only reason I can think of is if you
+want to use the sprites/palettes of your other enabled mod with Sage's music. In that case, please put that mod ABOVE Sage.
+However, if it's requested enough, I will make the modded music a mod on its own.
+
+All extra slot characters should not adapt Sage's music from the base mod.
+
+Extra slot URLs:
+Mighty: https://gamebanana.com/mods/336038
+Rouge: https://gamebanana.com/mods/389215
+Fang: https://gamebanana.com/mods/417293
+Shadow: https://gamebanana.com/mods/401677
+Ray: https://gamebanana.com/mods/403766
